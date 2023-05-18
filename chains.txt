@@ -1,0 +1,181 @@
+input	output	name	C0	C1	C3	Fe1	Fe2	S0	S1	S2	S3	Anode
+Ammonia	Nitrate	Prosthecobacter	0.476011966	0	0.990260859	0	0.332973572	0	0	0	0	0
+Ammonia	"Nitrite, nitrate"	Leptolinea	0	0	0	0	0	0.490567536	1.101762602	1.838523337	2.026113202	1.274163858
+"Ammonium, nitrate, organic matter"	"Nitrite, nitrate, N2O, CO2, CH4, H2, NH3"	Comamonadaceae	0	0	0	0	0	1.521495143	0	0	0	0
+"Ammonium, nitrate, organic matter"	"Nitrite, nitrate, N2O, CO2, CH4, H2, NH3"	Comamonadaceae	0	0.590873912	0.696680169	0	0.177075989	0	0	0	0	0
+"Ammonium, nitrate, organic matter"	"Nitrite, nitrate, N2O, CO2, CH4, H2, NH3"	Comamonadaceae	0	0	0	0	0	0	0.230434412	0.274302214	0	0.64950791
+Aromatic compounds	"CO2, H2O"	Blastomonas	0	0.447167901	0.247653558	0.318311565	0.83228205	0	0	0	0	0
+Aromatic compounds	"CO2, H2O"	Brachymonas	0	0	0.846914864	0	0	0	0	0	0	0
+Aromatic compounds	"CO2, H2O"	C1-B045	0	0.512972065	0.913862527	0.639756494	0.390986371	0	0	0	0	0
+Aromatic compounds	"CO2, H2O"	C1-B045	0	0	0	0	0	0.839395718	0.153622941	0.120942951	0	0.187750334
+Aromatic compounds	"CO2, H2O"	Candidatus_Berkiella	1.74940998	0	0	0	0	1.076517259	0	0.024326165	0	0
+Aromatic compounds	"CO2, H2O"	Chelatococcus	0	0.382179483	0.658701862	0	0	0	0	0	0	0
+Aromatic compounds	"CO2, H2O, biomass"	Devosia	3.552947573	0	0	0	0	0	0	0	0	0
+Aromatic compounds	"CO2, H2O, organic acids"	Thermomonas	2.77045268	0	0	0	0	1.292535828	0.170692157	0.755007842	0.520682113	0.640891325
+Aromatic compounds	"CO2, H2O, organic acids"	Sphingosinicella	0	0	0	0.759679491	0.811711162	0	0.585863216	0.338396859	0.448874283	0.059681132
+Aromatic Compounds		R7C28	0	0	0.016957775	0	0	0.4623835	1.130740359	1.470247203	1.128116917	0.244438445
+"Aromatic compounds, heavy metals"	"CO2, H2O, biomass, reduced metals"	Cupriavidus	2.38191771	0	0	0	0	0.054449284	0	0	0	0
+Aromatic hydrocarbon	"CO2, H2O"	Geothrix	0	0	0	0	0	5.358623592	0.11948451	0.053517563	0.179946063	0.1439421
+Atmospheric nitrogen	Ammonia	Pajaroellobacter	0.816929265	0	0	0	0	0.042781581	0	0	0	0
+Atmospheric nitrogen	Ammonia	Niveispirillum	0.532004155	0	0	0	0	0	0	0	0	0
+Atmospheric nitrogen	Ammonia	Pedomicrobium	0	2.41359084	0.69623845	1.517623703	2.694438271	0	0	0	0	0
+Atmospheric nitrogen	Ammonia	Pedomicrobium	0	0	0	1.680065014	2.425965954	0	0	0	0	0
+Carbohydrates	"Acetate, H2"	Bacteroidia	0	0	0.507672073	0	0	0	0	0	0	0
+Carbohydrates	"Acetate, H2"	Brevundimonas	0	0	0.237408852	1.866578084	2.578218428	0	0	0	0	0
+Carbohydrates	"Acetate, H2"	Brevundimonas	3.292374464	0	0	0	0	0	0	0	0	0
+Carbohydrates	"Acetate, H2"	Brevundimonas	0	0.870247607	0	0	0	0	0	0	0	0
+Carbohydrates	"Acetate, H2"	Brevundimonas	0.521770421	0	0	0	0	0	0	0	0	0
+Carbohydrates	"Acetate, H2"	Brevundimonas	0	4.908380719	0.499458217	0.494026458	0.344929691	0	0	0	0	0
+Carbohydrates	"Acetate, H2"	Brevundimonas	0	0	0	0	0	0	1.891662809	0.106347251	0.113450145	0.391373566
+Carbohydrates	"Acetate, H2"	Caldisericum	0	0	0	0	0	0	0.132286421	0.17906118	0.74425224	0
+Carbohydrates	"Acetate, H2"	Candidatus_Obscurib...	2.073575566	0	0	0	0	1.117833919	0	0	0	0
+Carbohydrates	"Acetate, H2"	Citrifermentans	0	0	0	0	0	2.490265106	0	0	0	4.618208938
+Carbohydrates	"Acetate, H2"	Citrifermentans	0	0	0	0	0	0	0	0	0	2.840746624
+"Carbon dioxide, sunlight"	Oxygen	Pseudorhodobacter	0.551391991	0	0	0	0	0	0.051207647	0.256164119	0.205652644	0.101403429
+CO2	"Sugars, O2"	Chloroplast	0	0	0	0	0	0.575241413	0	0	0	0
+CO2	"Sugars, O2"	Chloroplast	0	0	0	0	0.099154577	0	0	0.081809432	0.216524185	0
+CO2	"Sugars, O2"	Chloroplast	0.044669446	0	0	0	0	0	0	0	0	0
+CO2	"Sugars, O2"	Chloroplast	0.040946992	0	0	0	0	0	0	0	0	0
+Fe(III) oxide	Fe(II)	Caulobacter	1.107746808	0	0	0	0	0	0	0	0	0
+Fe(III) oxide	Fe(II)	Caulobacter	0	0	0	0	0	0.618022994	0	0	0	0
+Fe(III) oxide	Fe(II)	Caulobacter	7.809448298	0.05336559	1.287462587	0.42357933	0.478433831	0	0	0	0	0
+Fe2+	Fe3+	Ferrovibrio	0.148434689	1.77022067	1.609040852	0.558864818	0.817841101	0	0	0	0	0
+Fe2+	Fe3+	Ferruginibacter	19.17587605	0	0	0	0	0	0	0	0	0
+Fe2+	Fe3+	Gallionellaceae	0	0	0	0	0	0.894298869	0	0	0	0
+Fe3+	Fe2+	Geobacter	0	0	0	0	0	2.017295065	0	0	0	7.433106164
+Fe3+	Fe2+	Geobacter	0	0	0	0	0	0	0.934394492	1.151681671	1.268759953	3.721088145
+Fe3+	Fe2+	Geobacter	0	0	0	0	0	2.764552084	0	0	0	0
+Fe3+	Fe2+	Geobacter	0	0	0	0	0	0	0	0	0	0.635086345
+Fe3+	Fe2+	Geobacter	0	0	0	0	0	0.529651761	0	0	0	0
+Fe3+	Fe2+	Geobacteraceae	0	0	0	0	0	0	0	0	0	5.62797993
+Fe3+	Fe2+	Geobacteraceae	0	0	0	0	0	0	0	0	0	2.404022782
+Fe3+	Fe2+	Geobacteraceae	0	0	0	0	0	1.010208392	0	0	0	0
+Hydrocarbons	"CO2, H2O"	Mycobacterium	0	0.376829528	0.449379985	0	0	0.05056005	0.672102664	0.464681264	0.588774165	0.070927904
+Hydrocarbons	"CO2, H2O, biomass"	Acidovorax	0	0	0	0	0	0	2.410537033	3.531407163	2.725392964	0.383664422
+Iron and manganese	Oxides	Leptothrix	0.331455113	0	0	0	0	0	0	1.239097125	0	0
+Methane	Methanol	Methylocystis	0	0.561883825	1.3800236	10.3683796	8.029718914	0	0.925809997	0.126496059	0.592461868	0.561256128
+Methane	Methanol	Methylocystis	0	0	0	3.236736471	4.738087381	0	0	0	0	0
+Methanol	"CO2, H2O"	Methyloversatilis	0	9.036230615	0.71284285	7.05101438	0.165672631	0	0	0	0	0
+N2	NH3	Ga0077536	0	0	0	1.299341195	0.472303891	0	0	0	0	0
+N2	NH3	Gaiellales	0	3.053376512	0	0.163132137	0.317621345	0	0	0	0	0
+N2	NH3	Gaiellales	0	0	0	0	0	0	0.145088333	0.231996694	0.873032861	0.055418194
+N2	NH3	Geotalea	0	0	0	0.299478513	0.143582947	0	0	0	0	0.632365449
+N2	NH3	Herbiconiux	3.669897455	0	0	0	0	0.862731125	2.17792138	1.877921423	3.065247962	0.848414662
+N2	"NH3, H2"	Afipia	0	0	0	0	0	0	0.92829056	0.642684174	0	0.11682243
+N2	"NH3, H2"	Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	0	0	2.7171227	0	0	0	0	0	0	0
+N2	"NH3, H2"	Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	0	0.335902513	0.301971234	0.643597117	0.285094337	0	0	0	0	0
+N2	"NH3, H2"	Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	1.429741075	0	0	0	0	0	0	0	0	0
+N2	"NH3, H2"	Azovibrio	0	0	0	0.600338678	0.3194439	0	0	0	0	0
+Nitrite	Nitrate	Longilinea	0	0	0	0	0	0	2.569769631	2.612515889	0.974125153	0.669824807
+Nitrite	Nitrate	Nitrospira	0	0.042692472	0	0.703920462	0.117848154	0	0	0	0	0
+Nitrogen	Ammonia	Beijerinckiaceae	0	0	0	0.589540501	0	0	0	0	0	0
+Nitrogen	Ammonia	Bosea	0	1.644778043	1.609659259	0	0.273745736	0	0	0	0	0
+Nitrogen	Ammonia	Bradyrhizobium	0	0	0	0	0.114810563	0.728002725	0	0	0.649958171	0
+Nitrogen	Ammonia	Cavicella	0	0	4.798154256	0	0	1.758808563	0	0	0	0.134418432
+Nitrogen		Rhizobiales_Incertae_Sedis	0.268173397	0	0	0	0	0.677320906	0.249390142	0.473670941	0.359396689	0.236184694
+Nitrogen gas	Ammonia	Hyphomicrobium	0	1.580766128	0.074719801	1.535042237	1.190133895	0	0	0	0	0
+Nitrogen gas	Ammonia	Hyphomicrobium	0	0	0.128684101	2.252524177	1.434086455	0	0	0	0	0
+Nitrogen gas	Ammonia	Hyphomicrobium	0	0	0	0.797329161	0.75679071	0	0	0	0	0
+Nitrogen gas	Ammonia	Mesorhizobium	0	0	0.097507207	0.995701296	1.439001358	0	0	0	0	0
+NO3-	"N2, NO2-, NH3"	Ancylobacter	0.618862305	0	0	0	0	0	0	0	0	0
+Organic compounds	"CO2, H2"	Lacunisphaera	3.313780918	0	0	0	0	0	0	0	0	0
+Organic compounds	"CO2, H2, organic acids"	Thermincola	0	0	0	0.12376362	0	0	0.398845553	0	0	8.254219739
+Organic compounds	"CO2, H2, organic acids"	Thermincola	0	0	0	0	0	0	0	0	0	0.632637574
+Organic compounds	"CO2, H2, organic acids"	Xanthobacter	0	0.245588884	0.508732198	0	0.060746631	0	0	0	0	0
+Organic compounds	"CO2, H2, organic acids"	Spirochaetaceae	0	0	0	0	0	0	1.276821836	0.783723019	1.930332822	1.097388171
+Organic compounds	"CO2, H2, organic acids"	Spirochaetaceae	0	0	0	0.017434968	0	0.035003111	0.946203259	1.213977257	0.788867178	0.501847121
+Organic compounds	"CO2, H2, organic acids"	Spirochaetaceae	0	0	0	0	0	0.257143351	0.385150271	0.469334844	0.539590471	0.354912
+Organic compounds	"CO2, H2, organic acids"	Spirochaetaceae	0	0	0	0	0	0	0.093880686	0.092439428	0.532544529	0
+Organic compounds	"CO2, H2, organic acids"	Syntrophus	0	0	0	0	0	0.12560678	0	0	0	3.078201236
+Organic compounds	"CO2, H2, organic acids"	Vermiphilaceae	0	2.397621352	0.336240159	0.076697424	0.264219689	0	0	0	0	0
+Organic compounds	"CO2, H2, organic products"	Obscuribacteraceae	0	0	0.121353682	2.493817555	1.524018745	0	0	0	0	0
+Organic compounds	"CO2, H2, organic products"	Paludibacter	0	0	0	0	0	0	0.208404069	0.140350969	0.045853531	0.505837934
+Organic compounds	"CO2, H2, organic products"	Pseudolabrys	0	1.969980646	0.44416876	0.07703462	0	0	0	0	0	0
+Organic compounds	"CO2, H2, organic products"	NRL2	0	0	0	0.112258185	0	1.698813245	0.034138431	0	0	0
+Organic compounds	"CO2, H2O"	Flavobacteriaceae	0.669890329	0	0	0	0	0	0	0	0	0
+Organic compounds	"CO2, H2O"	Flavobacterium	1.754526847	0	0	0	0	0	0	0	0	0
+Organic compounds	"CO2, H2O"	Gammaproteobacteria	0	0.981853887	1.082733529	0.066590073	0.133504139	0	0	0	0	0
+Organic compounds	"CO2, H2O"	Gammaproteobacteria	0	0	0	0	0	0	0	0.033686237	0	1.514430074
+Organic compounds	"CO2, H2O"	Gammaproteobacteria	0.988317523	0	0	0	0	0.269002933	0	0	0	0.016688919
+Organic compounds	"CO2, H2O"	Gammaproteobacteria	0	0	0	0	0	0.83289029	0	0	0	0
+Organic compounds	"CO2, H2O"	Gammaproteobacteria	0	0	0	0	0	0.631923133	0	0.033686237	0.037816715	0
+Organic compounds	"CO2, H2O"	Gemmatimonas	0.017992083	0	0	0	0	0.565927914	0	0	0	0
+Organic compounds	"CO2, H2O"	Ottowia	0	0	0	0	0	0	0	0.726398492	0	0
+Organic compounds	"CO2, H2O"	Parvibaculum	6.001410005	0	0	0	0	3.104468974	1.24873745	1.01672507	0.763408316	2.675580898
+Organic compounds	"CO2, H2O"	Parvibaculum	0	0.275367926	0.076309988	0.722029821	0.123066815	0	0	0	0	0
+Organic compounds	"CO2, H2O"	Parvibaculum	0.701531856	0	0	0	0	0.342009106	0	0	0	0.102310512
+Organic compounds	"CO2, H2O"	Pseudonocardia	0	16.59119914	0.075691582	0.504824635	0.721778872	0	0.081078774	0	0	0
+Organic compounds	"CO2, H2O"	Pseudorhodoplanes	0	0.138750534	0.911124927	0	0	0	0	0	0	0
+Organic compounds	"CO2, H2O"	Pseudomonadaceae	0	0	0	2.984677783	36.57600662	0	0	0	0	0
+Organic compounds	"CO2, H2O"	Pseudomonas	0	33.75606569	55.88013739	38.22466782	14.76368568	0	1.370702523	0	0	1.239878937
+Organic compounds	"CO2, H2O"	Pseudomonas	1.504037449	0	0	0	0	0.806625042	1.222140482	2.027632463	1.50482583	0.272828033
+Organic compounds	"CO2, H2O"	Pseudomonas	0	0	0	0	0	0	1.796988527	0	0	0
+Organic compounds	"CO2, H2O"	Pseudomonas	0.46872244	0	0	0	0	0	0	0	0	0
+Organic compounds	"CO2, H2O"	OM27_clade	1.184677967	0	0	0	0	0	0	0	0	0
+Organic compounds	"CO2, H2O"	OPB41	0	0	0	0	0	0.1011201	1.041920573	0.24653948	1.131832695	0.108477971
+Organic compounds	"CO2, H2O"	OPB41	0	0	0	0	0	0	0	0.440302186	0.334075724	1.071357001
+Organic compounds	"CO2, H2O"	OPB41	0	0	0	0	0	0	0.63548367	0	0.680481226	0
+Organic compounds	"CO2, H2O"	Parviterribacter	0	0.733208945	0.401774322	0.181290796	0.367019375	0	0	0	0	0
+Organic compounds	"CO2, H2O, organic acids"	Vicinamibacteraceae	0	0	0	0	0	0.564271115	0	0	0	0
+Organic compounds	"CO2, H2O, organic acids"	Xanthobacteraceae	0	0.259712537	4.646417718	0.312028403	0.499612237	0	0	0	0	0
+Organic compounds	"CO2, H2O, organic acids"	Xanthobacteraceae	0	0	0	0.539645271	0	0	0	0	0	0
+Organic compounds	"CO2, H2O, organic products"	Nocardioides	0	0.189982982	1.266353712	0.038356929	0.05522421	0	0	0	0	0
+Organic compounds	Organic acids	Firmicutes	0	0	0	0	0	0	0.109312822	0.111371225	0.51561792	0.169247603
+Organic compounds	Organic acids	Hungateiclostridiaceae	0	0	0	0	0	0	0.801164813	0.241832988	0.719784252	0.170517521
+Organic Compounds		Pseudoxanthomonas	0.24645886	0	0	0	0	0.31994674	1.902927415	1.815255442	4.341549294	2.158223711
+Organic Compounds		Sandaracinobacter	0.50935867	0	0	0	0	1.69958076	0	0.66822735	0.883161247	0.264302157
+Organic Compounds		Sediminibacterium	11.52044679	0	0	0.129693152	0.296139179	0	0	0	0	0
+Organic Compounds		Sediminibacterium	0	0	0	0	0	0.899077388	0.055474951	0	0	0.08525876
+Organic Compounds		Pseudoxanthomonas	0	0	0	0	0.057405281	0	0	0	0	0
+Organic Compounds		Ramlibacter	0.569538117	0	0	0	0	0	0	0	0	0
+Organic Compounds		Ramlibacter	0	0	0	0	0	2.617842332	1.276672176	2.075544005	1.309301573	0
+Organic Compounds		Rhodanobacter	0	0	0	0	0	0	1.047824957	0.242256296	0.166845054	0.055418194
+"Organic Compounds, Nitrogen"		Pseudoxanthobacter	0	0.104149976	0	0.108096799	0.769105346	0	0	0	0	0
+"Organic Compounds, Nitrogen"		Rhizobiaceae	0	0	0.524276474	0.052304903	0.057405281	0	0	0	0	0
+"Organic Compounds, Nitrogen"		Rhodospirillales	2.827220436	0	0	0	0	0	0	0	0	0
+Organic matter	"Acetate, CO2, H2"	Anaerolinea	0	0	0	0.058908827	0	0	0.724103908	0.754319966	0.35532337	0
+Organic matter	"Acetate, CO2, H2"	Anaerolineaceae	0	0	0	0	0	0.097230865	3.109585874	1.456233553	3.530195877	1.116797985
+Organic matter	"Acetate, CO2, H2"	Anaerolineaceae	0	0	0	0	0	0	1.056409452	1.363899952	1.099080173	0.506382185
+Organic matter	"Acetate, CO2, H2"	Anaerolineaceae	0	0	0	0	0	0	1.291260828	0.933434059	0.91740008	0.29514016
+Organic matter	"Acetate, CO2, H2"	Anaerolineaceae	0	0	0	0	0	0	0.411647465	0.706196771	0.718050222	0
+Organic matter	"Acetate, CO2, H2"	Anaerolineaceae	0	0	0	0	0	0	0.57132445	0.067372474	0.289322889	0.066755674
+Organic matter	"Acetate, CO2, H2"	Anaerolineaceae	0	0	0	0	0	0	0.453776342	0	0	0.538399396
+Organic matter	"CO2, H2O, biomass"	Actinobacteriota	0	0	0	0	0	0	0.935188088	0.348603547	0.997492444	0.091789052
+"Organic matter, cellulose, xylan"	"Acetate, butyrate, CO2, H2, lactate, ethanol"	Diplorickettsiaceae	0	0.142809887	0.188831408	0.394638927	0.774269251	0	0	0	0	0
+"Organic matter, cellulose, xylan"	"Acetate, butyrate, CO2, H2, lactate, ethanol"	Edaphobaculum	1.12666984	0	0	0	0	0	0	0	0	0
+"Organic matter, cellulose, xylan"	"Acetate, butyrate, CO2, H2, lactate, ethanol"	Clostridium_sensu_stricto_12	0	0	0	0	0	0	0	0	0	1.914601641
+"Organic matter, cellulose, xylan"	"Acetate, butyrate, CO2, H2, lactate, ethanol"	Clostridium_sensu_stricto_13	0.011167362	0	0	0	0	0.141355597	0.315980038	0.203122777	0.752041337	0
+"Organic matter, cellulose, xylan, acetate, H2"	"Acetate, butyrate, CO2, H2, lactate, ethanol"	Ellin6067	0	0	0	0	0	0.260578718	0.279211382	0.536866058	0.225304157	0.214779296
+Organic phosphates	Inorganic phosphates	Arenimonas	0.707270248	0	0	0	0	0.483678351	0	0	0	0
+Organic pollutants	"CO2, H2O"	Microbacteriaceae	0.754577158	0	0.080549432	0	0	5.692208483	5.056179473	8.565745219	9.018660622	3.348670851
+Petroleum hydrocarbons	"CO2, H2O"	Nordella	0	0.929859276	1.259023293	0.357696515	0.30779154	0	0	0	0	0
+Pollutants	"CO2, H2O"	Hydrogenophaga	0	1.555280161	0.880300352	0.63279894	0.311795165	0	0	0	0	0
+Pollutants	"CO2, H2O"	Immundisolibacter	0.080964376	0	0.640948993	0.484692098	0	1.489576851	7.465229087	10.97799566	5.554465227	3.791381091
+Pollutants	"CO2, H2O"	Immundisolibacter	0	0	0	0	0	11.83124353	0	0	0	0
+Pollutants	"CO2, H2O"	Immundisolibacter	0	0.202448349	0	0.412361791	0.32030042	0	0	0	0	0
+Pollutants	"CO2, H2O"	KCM-B-112	0	0.020028842	2.100903619	0	0.066269052	0	1.358744094	1.026190968	0.630802095	0.253145738
+Pollutants	"CO2, H2O"	Larkinella	0.576053416	0	0	0	0	0	0	0	0	0
+Polycyclic aromatic hydrocarbons	"CO2, H2O, biomass"	Dietzia	0	3.521496172	1.288080993	0.181981622	0.132538105	0	0	0	0	0
+Polycyclic aromatic hydrocarbons	"CO2, H2O, biomass"	env.OPS_17	0.165805247	0	0	0	0	0.607628331	0	0.029191398	0	0
+Polysaccharides	"Acetate, H2"	Bacteroidetes_vadinHA20	0	0	0	0	0	0	0.6166776	0.512751546	1.004290667	0.240538341
+Polysaccharides	"Acetate, H2"	Bacteroidetes_vadinHA20	0	0	0	0	0	0	0.247503627	0.261399747	0.822362856	0.050066756
+Steroids	"CO2, H2O, organic compounds"	Steroidobacteraceae	0	0	0	0	0	0.574282019	0.042673039	0.532212479	0.520434395	0.092968261
+Sulfate	Sulfide	Rhodoferax	0	0	0	0	0	1.600117459	0	0	0	0
+Sulfate	Sulfide	Smithella	0	0	0	0	0	0	0.677163565	0.778646132	0.789610334	1.011403743
+Sulfate	Sulfide	Smithella	0	0	0	0	0	0	0.123751814	0.614445219	0.255469671	0.166889186
+"Sulfate, thiosulfate, sulfite, elemental sulfur, organic compounds"	"H2S, sulfate, elemental sulfur, polysulfides, organic sulfur compounds"	Desulfomonile	0	0	0	0	0	0	0.320247342	0.159758988	0.518204928	0.455226928
+"Sulfate, thiosulfate, sulfite, elemental sulfur, organic compounds"	"H2S, sulfate, elemental sulfur, polysulfides, organic sulfur compounds"	Desulfoprunum	0	0	0.041511	0	0	0.304006044	5.283190064	8.031151633	14.85444	4.087156209
+"Sulfate, thiosulfate, sulfite, elemental sulfur, organic compounds"	"H2S, sulfate, elemental sulfur, polysulfides, organic sulfur compounds"	Desulfovibrio	0	0	0	0.062765883	0.044179368	0	0.237431713	0	0	1.344275386
+"Sulfate, thiosulfate, sulfite, elemental sulfur, organic compounds"	"H2S, sulfate, elemental sulfur, polysulfides, organic sulfur compounds"	Desulfovibrio	0	0	0	0	0	0	0	0	0	0.863924372
+Sulfur	"SO4, biomass"	Aquicella	0	1.421063836	1.141202304	0.073210431	0	0	0	0	0	0
+Sulfur	"SO4, biomass"	Aquicella	0	0	0	0	0	0.16692344	0.140920803	0.053517563	0	1.332121531
+Sulfur compounds	H2SO4	PHOS-HE39	0	0	0	0	0	0.09334163	0.754918293	1.359246373	1.361457889	0.805241032
+Sulfur compounds	H2SO4	Pirellula	0.604281912	0	0	0	0	0.127455458	0	0	0	0
+Sulfur compounds	"Sulfuric acid, organic compounds"	Sulfuritalea	0	0	0	0	0	1.947218732	7.790736877	8.773362835	2.211261355	1.499101425
+Sulfur compounds	"Sulfuric acid, organic compounds"	Sulfuritalea	0.444215058	0	0	0	0	11.45885116	1.320238585	3.373023926	0	1.16441597
+Sulfur compounds	"Sulfuric acid, organic compounds"	Sulfuritalea	0	0	0	0	0	3.551155317	3.918836313	2.503472859	1.848286784	0
+Sulfur compounds	"Sulfuric acid, organic compounds"	Thiobacillus	0	0	0	0	0	0	6.261350513	3.420882554	2.462629633	1.526765346
+Sulfur compounds	"Sulfuric acid, organic compounds"	Thiobacillus	0	0	0	0	0	0.800573481	0	0	0	0
+Sulfur compounds	"Sulfuric acid, organic compounds"	Thiobacillus	0	0	0.097507207	0	0	0	0	0	0	0
+"Sulfur, Iron"	"Sulfate, Iron Oxides"	Sideroxydans	0	0	0	1.82584435	1.810990394	0	0	0	0	0
+"Sulfur, Nitrate, Nitrite"	"Sulfate, Nitrogen Gas"	Simkaniaceae	0	1.084713261	0.574354705	0.611844113	0.244918595	0	0	0	0	0.088614615
